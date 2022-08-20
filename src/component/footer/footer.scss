@@ -1,0 +1,21 @@
+@import "../../common/colors.scss";
+
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    color:$font-primary;
+    bottom: 0;
+    clear: both;
+  
+}
+
+img{
+    width: 38px;
+    height: 38px;
+    border-radius: 15px;
+    box-shadow: 3px 3px rgb(22, 28, 33);
+}
+.footer-text{
+    text-align: center;
+    
+}
